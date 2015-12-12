@@ -90,13 +90,16 @@ It contains a service directory, which contains the php services used for this d
 Here is an overview of how services are used:
 
 
+![Fullcalendar php services overview](http://s19.postimg.org/50qw5npr7/php_services_overview.jpg)
+
+
+
 
 ### init.php
 
 This is the file which contains the main configuration, things like the database connection.
 
 
-![Fullcalendar php services overview](http://s19.postimg.org/50qw5npr7/php_services_overview.jpg)
 
 
 

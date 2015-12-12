@@ -1,0 +1,3 @@
+dependencies:
+    - git::/lingtalfi/ArrayToString:1.0.0    
+    - git::/lingtalfi/VariableToString:1.1.0 
